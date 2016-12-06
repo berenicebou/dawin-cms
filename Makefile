@@ -1,4 +1,4 @@
-COMPOSER ?= /usr/bin/composer
+COMPOSER ?= php ./composer.phar
 
 ### Dependencies
 depend:
